@@ -1,11 +1,11 @@
-# Laravel Learning
+# 🔥 Laravel Learning
 
 This repository contains my personal learning journey with the **Laravel** framework.  
 It includes practice projects, experiments, and simple apps to explore Laravel features.  
 
 ---
 
-## Requirements
+## 📋 Requirements
 
 - PHP >= 8.x  
 - Composer  
@@ -13,7 +13,7 @@ It includes practice projects, experiments, and simple apps to explore Laravel f
 
 ---
 
-## Installation
+## 📦 Installation
 
 1. Clone this repository:
 
@@ -52,7 +52,7 @@ It includes practice projects, experiments, and simple apps to explore Laravel f
 
 ---
 
-## Usage
+## ▶️ Usage
 
 - Open http://localhost:8000 in your browser
 - Explore the latihan_aplikasi/ folder for practice projects
